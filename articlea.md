@@ -85,6 +85,10 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
 Python was named after the British comedy series *Monty Python's Flying Circus* - Guido van Rossum was a fan of the show!
 
+## Lorem ipsum dolor sit amet
+
+This is where Python ends.
+
 ## Resources
 ---
 Here are some helpful resources for learning more about Python:
