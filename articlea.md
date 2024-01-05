@@ -77,6 +77,10 @@ Python is a powerful, high-level programming language that is widely used in man
 As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 > Python is an easy-to-use programming language for people who want to express concepts in code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's why I love it.
 
+### Did you know?
+
+Python was named after the British comedy series *Monty Python's Flying Circus* - Guido van Rossum was a fan of the show!
+
 ## Resources
 ---
 Here are some helpful resources for learning more about Python:
